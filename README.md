@@ -1,5 +1,5 @@
 # 👻 GhostChat
-
+http://ghostchat.rahulj.space/
 **Reclaim your privacy.**
 
 GhostChat is a lightweight Chrome extension that adds client-side AES-GCM encryption to Discord Web. Messages are encrypted inside your browser before they are sent, ensuring that only users with the shared passphrase can read them.
